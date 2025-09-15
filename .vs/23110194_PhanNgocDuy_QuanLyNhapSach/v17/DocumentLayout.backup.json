@@ -1,0 +1,367 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|c:\\users\\hp\\downloads\\connect db\\23110194_phanngocduy_quanlynhapsach\\23110194_phanngocduy_quanlynhapsach\\nhapsachform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|solutionrelative:23110194_phanngocduy_quanlynhapsach\\nhapsachform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_phanngocduy_quanlynhapsach\\nhapsachform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|solutionrelative:23110194_phanngocduy_quanlynhapsach\\nhapsachform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_phanngocduy_quanlynhapsach\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|solutionrelative:23110194_phanngocduy_quanlynhapsach\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_phanngocduy_quanlynhapsach\\thuthuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|solutionrelative:23110194_phanngocduy_quanlynhapsach\\thuthuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_phanngocduy_quanlynhapsach\\khosachform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|solutionrelative:23110194_phanngocduy_quanlynhapsach\\khosachform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_phanngocduy_quanlynhapsach\\nhapsachform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|solutionrelative:23110194_phanngocduy_quanlynhapsach\\nhapsachform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_phanngocduy_quanlynhapsach\\thongkenhapsachform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|solutionrelative:23110194_phanngocduy_quanlynhapsach\\thongkenhapsachform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_phanngocduy_quanlynhapsach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|solutionrelative:23110194_phanngocduy_quanlynhapsach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_phanngocduy_quanlynhapsach\\tracuusachform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|solutionrelative:23110194_phanngocduy_quanlynhapsach\\tracuusachform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_phanngocduy_quanlynhapsach\\trangchuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|solutionrelative:23110194_phanngocduy_quanlynhapsach\\trangchuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_phanngocduy_quanlynhapsach\\thuthuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|solutionrelative:23110194_phanngocduy_quanlynhapsach\\thuthuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_phanngocduy_quanlynhapsach\\login\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|solutionrelative:23110194_phanngocduy_quanlynhapsach\\login\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_phanngocduy_quanlynhapsach\\thongtinchitietsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|solutionrelative:23110194_phanngocduy_quanlynhapsach\\thongtinchitietsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_phanngocduy_quanlynhapsach\\thuthuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|solutionrelative:23110194_phanngocduy_quanlynhapsach\\thuthuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_phanngocduy_quanlynhapsach\\thongkenhapsachform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|solutionrelative:23110194_phanngocduy_quanlynhapsach\\thongkenhapsachform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_phanngocduy_quanlynhapsach\\khosachform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|solutionrelative:23110194_phanngocduy_quanlynhapsach\\khosachform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_phanngocduy_quanlynhapsach\\login\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|solutionrelative:23110194_phanngocduy_quanlynhapsach\\login\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_phanngocduy_quanlynhapsach\\login\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|solutionrelative:23110194_phanngocduy_quanlynhapsach\\login\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_phanngocduy_quanlynhapsach\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0503F7-4539-4E1D-935F-09297D36DF05}|23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach.csproj|solutionrelative:23110194_phanngocduy_quanlynhapsach\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhapSachForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\NhapSachForm.cs",
+              "RelativeDocumentMoniker": "23110194_PhanNgocDuy_QuanLyNhapSach\\NhapSachForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\NhapSachForm.cs [Design]*",
+              "RelativeToolTip": "23110194_PhanNgocDuy_QuanLyNhapSach\\NhapSachForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T13:20:22.833Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NhapSachForm.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\NhapSachForm.cs",
+              "RelativeDocumentMoniker": "23110194_PhanNgocDuy_QuanLyNhapSach\\NhapSachForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\NhapSachForm.cs*",
+              "RelativeToolTip": "23110194_PhanNgocDuy_QuanLyNhapSach\\NhapSachForm.cs*",
+              "ViewState": "AgIAANwAAAAAAAAAAAAAAAEBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T06:40:00.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThuThuForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\ThuThuForm.cs",
+              "RelativeDocumentMoniker": "23110194_PhanNgocDuy_QuanLyNhapSach\\ThuThuForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\ThuThuForm.cs [Design]",
+              "RelativeToolTip": "23110194_PhanNgocDuy_QuanLyNhapSach\\ThuThuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T12:53:30.206Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBConnect.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\DBConnect.cs",
+              "RelativeDocumentMoniker": "23110194_PhanNgocDuy_QuanLyNhapSach\\DBConnect.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\DBConnect.cs",
+              "RelativeToolTip": "23110194_PhanNgocDuy_QuanLyNhapSach\\DBConnect.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAuwHMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T06:34:29.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NhapSachForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\NhapSachForm.Designer.cs",
+              "RelativeDocumentMoniker": "23110194_PhanNgocDuy_QuanLyNhapSach\\NhapSachForm.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\NhapSachForm.Designer.cs",
+              "RelativeToolTip": "23110194_PhanNgocDuy_QuanLyNhapSach\\NhapSachForm.Designer.cs",
+              "ViewState": "AgIAAEIBAAAAAAAAAAArwEQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T06:40:06.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KhoSachForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\KhoSachForm.cs",
+              "RelativeDocumentMoniker": "23110194_PhanNgocDuy_QuanLyNhapSach\\KhoSachForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\KhoSachForm.cs [Design]",
+              "RelativeToolTip": "23110194_PhanNgocDuy_QuanLyNhapSach\\KhoSachForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T12:59:32.848Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ThongKeNhapSachForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\ThongKeNhapSachForm.cs",
+              "RelativeDocumentMoniker": "23110194_PhanNgocDuy_QuanLyNhapSach\\ThongKeNhapSachForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\ThongKeNhapSachForm.cs [Design]",
+              "RelativeToolTip": "23110194_PhanNgocDuy_QuanLyNhapSach\\ThongKeNhapSachForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T13:25:49.717Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\Program.cs",
+              "RelativeDocumentMoniker": "23110194_PhanNgocDuy_QuanLyNhapSach\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\Program.cs",
+              "RelativeToolTip": "23110194_PhanNgocDuy_QuanLyNhapSach\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T12:30:04.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TraCuuSachForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\TraCuuSachForm.cs",
+              "RelativeDocumentMoniker": "23110194_PhanNgocDuy_QuanLyNhapSach\\TraCuuSachForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\TraCuuSachForm.cs [Design]",
+              "RelativeToolTip": "23110194_PhanNgocDuy_QuanLyNhapSach\\TraCuuSachForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T13:20:38.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TrangChuForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\TrangChuForm.cs",
+              "RelativeDocumentMoniker": "23110194_PhanNgocDuy_QuanLyNhapSach\\TrangChuForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\TrangChuForm.cs [Design]",
+              "RelativeToolTip": "23110194_PhanNgocDuy_QuanLyNhapSach\\TrangChuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T13:22:35.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ThuThuForm.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\ThuThuForm.cs",
+              "RelativeDocumentMoniker": "23110194_PhanNgocDuy_QuanLyNhapSach\\ThuThuForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\ThuThuForm.cs",
+              "RelativeToolTip": "23110194_PhanNgocDuy_QuanLyNhapSach\\ThuThuForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T12:58:46.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\Login\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "23110194_PhanNgocDuy_QuanLyNhapSach\\Login\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\Login\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "23110194_PhanNgocDuy_QuanLyNhapSach\\Login\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T12:31:33.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ThongTinChiTietSach.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\ThongTinChiTietSach.cs",
+              "RelativeDocumentMoniker": "23110194_PhanNgocDuy_QuanLyNhapSach\\ThongTinChiTietSach.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\ThongTinChiTietSach.cs",
+              "RelativeToolTip": "23110194_PhanNgocDuy_QuanLyNhapSach\\ThongTinChiTietSach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T14:06:22.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ThuThuForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\ThuThuForm.Designer.cs",
+              "RelativeDocumentMoniker": "23110194_PhanNgocDuy_QuanLyNhapSach\\ThuThuForm.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\ThuThuForm.Designer.cs",
+              "RelativeToolTip": "23110194_PhanNgocDuy_QuanLyNhapSach\\ThuThuForm.Designer.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAIAwwE0AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T13:08:44.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ThongKeNhapSachForm.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\ThongKeNhapSachForm.cs",
+              "RelativeDocumentMoniker": "23110194_PhanNgocDuy_QuanLyNhapSach\\ThongKeNhapSachForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\ThongKeNhapSachForm.cs",
+              "RelativeToolTip": "23110194_PhanNgocDuy_QuanLyNhapSach\\ThongKeNhapSachForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T06:46:12.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "KhoSachForm.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\KhoSachForm.cs",
+              "RelativeDocumentMoniker": "23110194_PhanNgocDuy_QuanLyNhapSach\\KhoSachForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\KhoSachForm.cs",
+              "RelativeToolTip": "23110194_PhanNgocDuy_QuanLyNhapSach\\KhoSachForm.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T14:06:37.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\Login\\LoginForm.cs",
+              "RelativeDocumentMoniker": "23110194_PhanNgocDuy_QuanLyNhapSach\\Login\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\Login\\LoginForm.cs [Design]",
+              "RelativeToolTip": "23110194_PhanNgocDuy_QuanLyNhapSach\\Login\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T12:08:35.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\Login\\LoginForm.cs",
+              "RelativeDocumentMoniker": "23110194_PhanNgocDuy_QuanLyNhapSach\\Login\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\Login\\LoginForm.cs",
+              "RelativeToolTip": "23110194_PhanNgocDuy_QuanLyNhapSach\\Login\\LoginForm.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T12:11:17.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Sach.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\Sach.cs",
+              "RelativeDocumentMoniker": "23110194_PhanNgocDuy_QuanLyNhapSach\\Sach.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Connect DB\\23110194_PhanNgocDuy_QuanLyNhapSach\\23110194_PhanNgocDuy_QuanLyNhapSach\\Sach.cs",
+              "RelativeToolTip": "23110194_PhanNgocDuy_QuanLyNhapSach\\Sach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T07:12:24.244Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
