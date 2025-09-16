@@ -1,4 +1,4 @@
-﻿using _23110194_PhanNgocDuy_QuanLyNhapSach.Login;
+﻿using _23110194_PhanNgocDuy_QuanLyNhapSach;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,12 +12,13 @@ namespace _23110194_PhanNgocDuy_QuanLyNhapSach
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+       
         [STAThread]
         static void Main()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ThuThuForm());
+            Application.Run(new LoginForm());
         }
     }
 }

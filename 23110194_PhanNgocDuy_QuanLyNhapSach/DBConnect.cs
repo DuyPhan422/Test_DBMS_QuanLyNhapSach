@@ -1,6 +1,6 @@
 ﻿using System;
-using System.Data.SqlClient;
 using System.Data;
+using System.Data.SqlClient;
 using System.Windows.Forms;
 
 namespace _23110194_PhanNgocDuy_QuanLyNhapSach
@@ -79,40 +79,121 @@ namespace _23110194_PhanNgocDuy_QuanLyNhapSach
             return dt;
         }
 
-        public int ExecuteInsertWithIdentity(string query, SqlParameter[] parameters = null)
+        public DataTable ExecuteQuery(string query, SqlParameter[] parameters, SqlConnection conn, SqlTransaction transaction)
         {
-            int identityValue = -1;
+            DataTable dt = new DataTable();
             try
             {
-                OpenConnection();
-                using (SqlCommand cmd = new SqlCommand(query, stringConnect))
+                using (SqlCommand cmd = new SqlCommand(query, conn, transaction))
                 {
                     if (parameters != null)
                     {
                         cmd.Parameters.AddRange(parameters);
                     }
-                    cmd.ExecuteNonQuery();
-                    cmd.CommandText = "SELECT SCOPE_IDENTITY()";
-                    object result = cmd.ExecuteScalar();
-                    identityValue = (result != DBNull.Value && result != null) ? Convert.ToInt32(result) : -1;
-                    Console.WriteLine("IdentityValue từ SCOPE_IDENTITY(): " + identityValue);
+                    using (SqlDataAdapter da = new SqlDataAdapter(cmd))
+                    {
+                        da.Fill(dt);
+                    }
                 }
-            }
-            catch (SqlException ex)
-            {
-                MessageBox.Show("Lỗi SQL khi thực thi INSERT: " + ex.Message);
-                Console.WriteLine("Lỗi SQL chi tiết: " + ex.Message + "\nSố lỗi: " + ex.Number + "\nTrạng thái: " + ex.State);
             }
             catch (Exception e)
             {
-                MessageBox.Show("Lỗi khi thực thi INSERT: " + e.Message);
-                Console.WriteLine("Lỗi chi tiết: " + e.Message);
+                MessageBox.Show("Lỗi truy vấn trong transaction: " + e.Message);
+            }
+            return dt;
+        }
+
+        public int ExecuteInsertWithIdentity(string query, SqlParameter[] parameters = null)
+        {
+            try
+            {
+                OpenConnection();
+                using (SqlCommand cmd = new SqlCommand(query + "; SELECT SCOPE_IDENTITY();", stringConnect))
+                {
+                    if (parameters != null)
+                    {
+                        cmd.Parameters.AddRange(parameters);
+                    }
+                    object result = cmd.ExecuteScalar();
+                    return Convert.ToInt32(result);
+                }
+            }
+            catch (Exception e)
+            {
+                MessageBox.Show("Lỗi khi thêm dữ liệu: " + e.Message);
+                return -1;
             }
             finally
             {
                 CloseConnection();
             }
-            return identityValue;
+        }
+
+        public int ExecuteInsertWithIdentity(string query, SqlParameter[] parameters, SqlConnection conn, SqlTransaction transaction)
+        {
+            try
+            {
+                using (SqlCommand cmd = new SqlCommand(query + "; SELECT SCOPE_IDENTITY();", conn, transaction))
+                {
+                    if (parameters != null)
+                    {
+                        cmd.Parameters.AddRange(parameters);
+                    }
+                    object result = cmd.ExecuteScalar();
+                    return result != DBNull.Value ? Convert.ToInt32(result) : -1;
+                }
+            }
+            catch (Exception e)
+            {
+                MessageBox.Show("Lỗi khi thêm dữ liệu trong transaction: " + e.Message);
+                return -1;
+            }
+        }
+
+        public void ExecuteNonQuery(string query, SqlParameter[] parameters = null, CommandType commandType = CommandType.Text)
+        {
+            try
+            {
+                OpenConnection();
+                using (SqlCommand cmd = new SqlCommand(query, stringConnect))
+                {
+                    cmd.CommandType = commandType;
+                    if (parameters != null)
+                    {
+                        cmd.Parameters.AddRange(parameters);
+                    }
+                    cmd.ExecuteNonQuery();
+                }
+            }
+            catch (Exception e)
+            {
+                MessageBox.Show("Lỗi khi thực thi lệnh: " + e.Message);
+            }
+            finally
+            {
+                CloseConnection();
+            }
+        }
+
+        public void ExecuteNonQuery(string query, SqlParameter[] parameters, SqlConnection conn, SqlTransaction transaction, CommandType commandType = CommandType.Text)
+        {
+            try
+            {
+                using (SqlCommand cmd = new SqlCommand(query, conn, transaction))
+                {
+                    cmd.CommandType = commandType;
+                    if (parameters != null)
+                    {
+                        cmd.Parameters.AddRange(parameters);
+                    }
+                    cmd.ExecuteNonQuery();
+                }
+            }
+            catch (Exception e)
+            {
+                MessageBox.Show("Lỗi khi thực thi lệnh trong transaction: " + e.Message);
+                throw; // Ném ngoại lệ để rollback
+            }
         }
     }
 }
